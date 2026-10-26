@@ -1,0 +1,15 @@
+langgraph>=1.0
+langgraph-checkpoint-sqlite
+fastapi
+uvicorn
+httpx
+pandas
+numpy
+scikit-learn
+lightgbm
+shap
+lime
+rank-bm25
+joblib
+anthropic        # optional (USE_LLM=1)
+pypdf            # optional (PDF knowledge base)
